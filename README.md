@@ -14,10 +14,10 @@
 	- 通过注册 [Github Student Developer Pack](https://education.github.com/pack) 获得 `50 USD` 服务抵扣金额。
 
 - **Aliyun 阿里云** 🌟
-	- 通过 [学生认证（学信网）](https://promotion.aliyun.com/ntms/campus2017.html) 之后，获得 `9.9 元/月` 特惠云主机。
+	- 云翼计划：通过 [学生认证（学信网）](https://promotion.aliyun.com/ntms/campus2017.html) 之后，获得 `9.9 元/月` 特惠云主机。
 
 - **腾讯云** 🌟
-	- 通过 [学生认证（学信网）](https://cloud.tencent.com/act/campus) 之后，获得 `10 元/月` 特惠云主机。
+	- 云+校园：通过 [学生认证（学信网）](https://cloud.tencent.com/act/campus) 之后，获得 `10 元/月` 特惠云主机。
 
 - **京东云** 
-	- 通过 [学生认证（学信网）](https://www.jdcloud.com/activity/leapcloud) 之后，获得 `8.8 元/月` 特惠云主机。
+	- 跃云计划：通过 [学生认证（学信网）](https://www.jdcloud.com/activity/leapcloud) 之后，获得 `8.8 元/月` 特惠云主机。
